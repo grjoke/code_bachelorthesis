@@ -1,4 +1,4 @@
-# Bachelorarbeit Scherzer
+# Codebase of bachelorthesis about disturbed systems of differential equations
 
 Code Repository of my Bachelorthesis at the "Potsdam Institute for climate impact research" and TU Berlin. The Bachelorthesis also can be found in this repository. 
 The topic of the thesis was the "Influence of noise on collapse rate and oscillation of a low-dimensional world-earth model" and researched the influence of applied noise on a nonlinear system of differential equations. Therefore the system of equations was solved by using the python-library sdeint (https://pypi.org/project/sdeint/)
